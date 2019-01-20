@@ -1,2 +1,5 @@
 # Demo-Project
-This is where the description goes for the demo project.
+
+This is where the initial description goes for the demo project.  
+
+
